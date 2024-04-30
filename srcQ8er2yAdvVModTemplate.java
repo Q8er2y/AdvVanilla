@@ -1,4 +1,4 @@
-package sonnicon.modtemplate;
+package q8er2y.javaav;
 
 import mindustry.mod.Mod;
 
