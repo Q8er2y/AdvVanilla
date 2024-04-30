@@ -26,6 +26,6 @@ public class AVItems {
         };
 
      
-        serpuloItems.addAll(titaniumCluster, t);
+        serpuloItems.addAll(titaniumCluster);
     }
 }
