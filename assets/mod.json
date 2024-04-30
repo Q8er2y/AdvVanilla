@@ -1,11 +1,11 @@
 {
-  "name": "modtemplate",
-  "displayName": "Template",
-  "author": "[#8738ff[]]Sonnicon[[]]",
-  "description": "Gradle jar Mindustry mod template",
+  "name": "AdvancedVanilla",
+  "displayName": "AV",
+  "author": "[#2d6b66[]]Q8er2y[[]]",
+  "description": "jar",
   "version": "0",
-  "main": "sonnicon.modtemplate.ModTemplate",
-  "minGameVersion": "105",
+  "main": "q8er2y.javaav.AVMod",
+  "minGameVersion": "146",
   "dependencies": [],
   "hidden": false,
   "java": true
