@@ -1,17 +1,17 @@
-package AV.content;
+package AdvancedVanilla.content;
 
 import arc.graphics.*;
 import arc.struct.Seq;
 import q8er2y.javaav.AVMod;
-import AV.graphics.*;
+import AdvancedVanilla.graphics.*;
 import mindustry.type.Item;
 
 import static mindustry.content.Items.*;
 
-public class AVItems {
+public class AdvancedVanillaItems {
     public static Item titaniumCluster;
 
-    public static Seq<Item> uxerdItems = new Seq<>(), lumoniItems = new Seq<>();
+    public static Seq<Item> serpuloItems = new Seq<>(),
 
     public static void load(){
         titaniumCluster = new Item("Titanium-Cluster", Color.valueOf("3d7fa1")){{
@@ -24,8 +24,6 @@ public class AVItems {
   
             }
         };
-
-     
-        serpuloItems.addAll(titaniumCluster);
+serpuloItems.addAll(titaniumCluster);
     }
 }
