@@ -1,15 +1,15 @@
 package AdvancedVanilla.content;
 
-import omaloon.content.blocks.*;;
+import AdvancedVanilla.content.blocks.*;;
 
-public class OlBlocks {
+public class AdvancedVanillaBlocks {
     public static void load(){
-        OlEnvironmentBlocks.load();
-        OlDefenceBlocks.load();
-        OlStorageBlocks.load();
-        OlProductionBlocks.load();
-        OlDistributionBlocks.load();
-        OlPowerBlocks.load();
-        OlCraftingBlocks.load();
+        AdvancedVanillaEnvironmentBlocks.load();
+        AdvancedVanillaDefenceBlocks.load();
+        AdvancedVanillaStorageBlocks.load();
+        AdvancedVanillaProductionBlocks.load();
+        AdvancedVanillaDistributionBlocks.load();
+        AdvancedVanillaPowerBlocks.load();
+        AdvancedVanillaCraftingBlocks.load();
     }
 }
