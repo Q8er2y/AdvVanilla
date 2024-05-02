@@ -1,4 +1,4 @@
-package .content;
+package AdvancedVanilla.content;
 
 import omaloon.content.blocks.*;;
 
